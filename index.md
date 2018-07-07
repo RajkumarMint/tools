@@ -1,4 +1,4 @@
-<h2 class="text-muted text-center">Encode Decode Online Tools</h2><hr>
+<h2 class="text-muted">Encode Decode Online Tools</h2><hr>
 
 <div class="row">
     <div class="col-md-4">
