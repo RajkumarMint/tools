@@ -1,17 +1,18 @@
 <h2 class="text-muted text-center">Encode Decode Online Tools</h2><hr>
+
 <div class="row">
- <div class="col-md-4">
-  <div class="card border-info">
-   <div class="card-body text-info">
-    <p class="card-text font-weight-bold">Base64 Encode Decode</p>
-   </div>
-  </div>
-	</div>
-	<div class="col-md-4">
-	<div class="card border-info">
-		<div class="card-body text-info">
-			<p class="card-text font-weight-bold">URL Encode Decode</p>
-		</div>
-	</div>
-</div>
+    <div class="col-md-4">
+        <div class="card border-info">
+            <div class="card-body text-info">
+                <p class="card-text font-weight-bold">Base64 Encode Decode</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card border-info">
+            <div class="card-body text-info">
+                <p class="card-text font-weight-bold">URL Encode Decode</p>
+            </div>
+        </div>
+    </div>
 </div>
